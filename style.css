@@ -31,10 +31,14 @@ a{
 }
 /* section 1 */
 .section-1{
-    padding-top: 27vh;
+    /*padding-top: 25vh;*/
     text-align: center;
     /* change 2 */
     height: 100vh;
+}
+
+.section-1-child{
+    padding-top: 25vh;
 }
 
 .section-1 p{
